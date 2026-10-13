@@ -74,3 +74,18 @@ Same as above
 ### 3. Justine Williams
 
 Same as above
+
+
+## Project 2
+
+### Javian Mack
+
+  See [Javian Mack's Project 2]()
+
+### Demetric Noble
+
+  No submission
+
+### Justine Williams
+
+  See [Justine Williams' Project 2]()
