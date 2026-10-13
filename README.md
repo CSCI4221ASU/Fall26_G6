@@ -80,7 +80,7 @@ Same as above
 
 ### Javian Mack
 
-  See [Javian Mack's Project 2]()
+  See [Javian Mack's Project 2](Project2/JavianMack/Fall26_G6-main/prototypes/prototype_description.md)
 
 ### Demetric Noble
 
@@ -88,4 +88,4 @@ Same as above
 
 ### Justine Williams
 
-  See [Justine Williams' Project 2]()
+  See [Justine Williams' Project 2](Project2/JustineWilliams/Fall26_G6-main/prototype_description.md)
