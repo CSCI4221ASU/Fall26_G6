@@ -101,7 +101,7 @@ Same as above
 
 ### Demetric Noble
 
-  (Project3/DemetricNoble/project3.md)
+ See [Demetric Noble's Project 3](Project3/DemetricNoble/project3.md)
 
 
 ### Justine Williams
