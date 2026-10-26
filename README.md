@@ -107,6 +107,6 @@ Same as above
 
 ### Justine Williams
 
-  See [Justine Williams' Project 3](Project3/JustineWllliams/project3.md)
+  See [Justine Williams' Project 3](Project3/JustineWIlliams/project3.md)
 
   
