@@ -88,4 +88,24 @@ Same as above
 
 ### Justine Williams
 
-  See [Justine Williams' Project 2]()
+  See [Justine Williams' Project 2](Project2/JustineWilliams/Fall26_G6-main/prototype_description.md)
+
+
+
+
+## Project 3
+
+### Javian Mack
+
+  No submission
+
+### Demetric Noble
+
+  (Project3/DemetricNoble/project3.md)
+
+
+### Justine Williams
+
+  See [Justine Williams' Project 3](Project3/JustineWilliams/project3.md)
+
+  
