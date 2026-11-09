@@ -118,12 +118,12 @@ Same as above
 
 ### Demetric Noble
 
- See [Demetric Noble's Project 4](Project4/DemetricNoble/project4.md)
+ See [Demetric Noble's Project 4](Project4/DmetricNoble/project4.md)
 
 
 
 ### Justine Williams
 
- See [Justine WIlliams's Project 4](Project4/JustineWilliams/project4_Justine_Williams.md)
+ See [Justine WIlliams's Project 4](Project4/JustineWilliams/project4_Justin_Williams.md)
 
 
