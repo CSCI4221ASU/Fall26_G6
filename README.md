@@ -110,3 +110,20 @@ Same as above
  No submission
 
   
+## Project 4
+
+### Javian Mack
+
+ See [Javian Mack's Project 4](Project4/JavianMack/architecture_JavianMack.md)
+
+### Demetric Noble
+
+ See [Demetric Noble's Project 4](Project4/DemetricNoble/project4.md)
+
+
+
+### Justine Williams
+
+ See [Justine WIlliams's Project 4](Project4/JustineWilliams/project4_Justine_Williams.md)
+
+
